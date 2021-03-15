@@ -17,3 +17,5 @@
     Exemplos:
         | mensagem                                                                       |
         | Não foi possível carregar seu endereço.<br>Verifique o CEP e digite novamente. |
+        | informe o endereço                                                             |
+        | informe o número                                                               |  
